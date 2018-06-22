@@ -1,0 +1,30 @@
+Expert #1-Newgrounds,IMDb,CheapTickets,Amazon,Digg
+Expert #2-Travelation,Facebook,Tumblr,Trivago,Patreon
+Expert #3-WritersCafe,Imgur,GameFAQs,4chan,Goodreads
+Expert #4-eBay,CheapAir,Twitter,Reddit,Expedia
+Expert #5-Trivago,CollegeHumor,MySpace,TravelBook.ph,Anime News Network
+Expert #6-Booking.com,Digg,The A.V. Club,Amazon,eBay
+Expert #7-Trivago,Rotten Tomatoes,Cracked,Booking.com,Goodreads
+Expert #8-Rotten Tomatoes,Cracked,DigitalSpy,Patreon,4chan
+Expert #9-9GAG,Zalora,Patreon,IMDb,Amazon
+Expert #10-Travelation,Twitch,DigitalSpy,WritersCafe,Rotten Tomatoes
+Expert #11-Expedia,Agoda,9GAG,OLX,Travelation
+Expert #12-Facebook,Instagram,Newgrounds,GameFAQs,Twitch
+Expert #13-YouTube,Goodreads,TravelBook.ph,Spotify,WritersCafe
+Expert #14-Anime News Network,Zalora,CollegeHumor,Digg,Booksie
+Expert #15-Booking.com,YouTube,AirBnB,Google+,DeviantArt
+Expert #16-CollegeHumor,eBay,Imgur,Agoda,CheapTickets
+Expert #17-TravelBook.ph,Imgur,Netflix,Instagram,9GAG
+Expert #18-MySpace,The A.V. Club,Spotify,Pinterest,Facebook
+Expert #19-Agoda,MySpace,Netflix,Vimeo,Anime News Network
+Expert #20-The A.V. Club,Google+,Pinterest,Tumblr,Sulit
+Expert #21-Twitch,Reddit,Twitter,Netflix,CheapTickets
+Expert #22-Booksie,DigitalSpy,Twitter,Sulit,Zalora
+Expert #23-GameFAQs,Expedia,Reddit,IMDb,OLX
+Expert #24-Lazada,Booksie,Google+,Priceline,Vimeo
+Expert #25-Spotify,CheapAir,AirBnB,SoundCloud,Tumblr
+Expert #26-DeviantArt,OLX,Iflix,AirBnB,4chan
+Expert #27-CheapAir,Lazada,Sulit,Instagram,DeviantArt
+Expert #28-Vimeo,Priceline,Lazada,Cracked,Kayak
+Expert #29-Priceline,SoundCloud,Iflix,Pinterest,Kayak
+Expert #30-SoundCloud,Newgrounds,YouTube,Kayak,Iflix
