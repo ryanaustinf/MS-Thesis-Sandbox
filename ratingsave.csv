@@ -1,0 +1,939 @@
+Site,ID,H11,H12,H13,H21,H22,H23,H31,H32,H33,AveH1,AveH2,AveH3
+1-800-flowers,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+1-800-flowers,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Alfred Sung,1,4,,,3,,,4,,,4,3,4
+Alfred Sung,2,4,,,3,,,4,,,4,3,4
+Alfred Sung,3,4,,,3,,,4,,,4,3,4
+Alfred Sung,4,4,,,3,,,4,,,4,3,4
+Alfred Sung,5,4,,,4,,,4,,,4,4,4
+Alfred Sung,6,4,,,3,,,4,,,4,3,4
+Alfred Sung,7,4,,,4,,,4,,,4,4,4
+Alfred Sung,8,4,,,3,,,4,,,4,3,4
+Alfred Sung,9,4,,,4,,,4,,,4,4,4
+Alfred Sung,10,2,,,3,,,4,,,2,3,4
+Alfred Sung,11,2,,,3,,,4,,,2,3,4
+Alfred Sung,12,2,,,3,,,4,,,2,3,4
+Alfred Sung,13,4,,,3,,,4,,,4,3,4
+Alfred Sung,14,4,,,3,,,4,,,4,3,4
+Alfred Sung,15,2,,,2,,,4,,,2,2,4
+Alibaba,1,3,,,2,,,2,,,3,2,2
+Alibaba,2,4,,,4,,,3,,,4,4,3
+Alibaba,3,3,,,2,,,2,,,3,2,2
+Alibaba,4,2,,,3,,,2,,,2,3,2
+Alibaba,5,2,,,2,,,2,,,2,2,2
+Alibaba,6,2,,,2,,,2,,,2,2,2
+Alibaba,7,3,,,2,,,3,,,3,2,3
+Alibaba,8,3,,,2,,,2,,,3,2,2
+Alibaba,9,2,,,3,,,4,,,2,3,4
+Alibaba,10,2,,,2,,,1,,,2,2,1
+Alibaba,11,3,,,3,,,2,,,3,3,2
+Alibaba,12,2,,,3,,,2,,,2,3,2
+Alibaba,13,1,,,2,,,2,,,1,2,2
+Alibaba,14,2,,,2,,,3,,,2,2,3
+Alibaba,15,2,,,2,,,3,,,2,2,3
+Amazon,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Amazon,18,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+American Apparel,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Arngren,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Azteca Soccer,1,3,,,3,,,4,,,3,3,4
+Azteca Soccer,2,3,,,3,,,4,,,3,3,4
+Azteca Soccer,3,3,,,4,,,4,,,3,4,4
+Azteca Soccer,4,3,,,3,,,4,,,3,3,4
+Azteca Soccer,5,3,,,3,,,4,,,3,3,4
+Azteca Soccer,6,3,,,3,,,4,,,3,3,4
+Azteca Soccer,7,2,,,2,,,2,,,2,2,2
+Azteca Soccer,8,3,,,2,,,3,,,3,2,3
+Azteca Soccer,9,3,,,3,,,4,,,3,3,4
+Azteca Soccer,10,3,,,3,,,4,,,3,3,4
+Azteca Soccer,11,3,,,2,,,3,,,3,2,3
+Azteca Soccer,12,3,,,3,,,3,,,3,3,3
+Azteca Soccer,13,4,,,3,,,3,,,4,3,3
+Azteca Soccer,14,4,,,3,,,3,,,4,3,3
+Azteca Soccer,15,3,,,2,,,3,,,3,2,3
+Best Electronic,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Best Electronic,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BestBuy,18,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BigCommerce,18,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Blinkee,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Bliss,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+BonBonBon,1,4,,,4,,,4,,,4,4,4
+BonBonBon,2,4,,,4,,,4,,,4,4,4
+BonBonBon,3,4,,,4,,,3,,,4,4,3
+BonBonBon,4,4,,,4,,,3,,,4,4,3
+BonBonBon,5,4,,,3,,,4,,,4,3,4
+BonBonBon,6,4,,,3,,,4,,,4,3,4
+BonBonBon,7,4,,,3,,,4,,,4,3,4
+BonBonBon,8,4,,,3,,,4,,,4,3,4
+BonBonBon,9,4,,,3,,,4,,,4,3,4
+BonBonBon,10,4,,,3,,,4,,,4,3,4
+BonBonBon,11,4,,,4,,,4,,,4,4,4
+BonBonBon,12,4,,,3,,,4,,,4,3,4
+BonBonBon,13,4,,,3,,,4,,,4,3,4
+BonBonBon,14,4,,,3,,,3,,,4,3,3
+BonBonBon,15,4,,,3,,,3,,,4,3,3
+BonBonBon,16,4,,,4,,,4,,,4,4,4
+BonBonBon,17,4,,,4,,,4,,,4,4,4
+BonBonBon,18,4,,,4,,,4,,,4,4,4
+BonBonBon,19,4,,,4,,,4,,,4,4,4
+Costco,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Costco,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CruiseMaster,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Custom Barres,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+CVS,1,3,,,3,,,4,,,3,3,4
+CVS,2,4,,,3,,,2,,,4,3,2
+CVS,3,4,,,4,,,4,,,4,4,4
+CVS,4,2,,,3,,,3,,,2,3,3
+CVS,5,3,,,3,,,4,,,3,3,4
+CVS,6,4,,,4,,,2,,,4,4,2
+CVS,7,4,,,3,,,4,,,4,3,4
+CVS,8,4,,,4,,,4,,,4,4,4
+CVS,9,4,,,3,,,4,,,4,3,4
+CVS,10,4,,,3,,,3,,,4,3,3
+CVS,11,4,,,4,,,4,,,4,4,4
+CVS,12,4,,,4,,,4,,,4,4,4
+CVS,13,4,,,4,,,4,,,4,4,4
+CVS,14,4,,,4,,,4,,,4,4,4
+CVS,15,4,,,4,,,4,,,4,4,4
+Decibullz,1,4,,,4,,,4,,,4,4,4
+Decibullz,2,4,,,4,,,4,,,4,4,4
+Decibullz,3,4,,,4,,,4,,,4,4,4
+Decibullz,4,4,,,4,,,4,,,4,4,4
+Decibullz,5,4,,,4,,,4,,,4,4,4
+Decibullz,6,3,,,4,,,4,,,3,4,4
+Decibullz,7,4,,,4,,,4,,,4,4,4
+Decibullz,8,4,,,4,,,4,,,4,4,4
+Decibullz,9,4,,,4,,,4,,,4,4,4
+Decibullz,10,4,,,4,,,4,,,4,4,4
+Decibullz,11,4,,,4,,,4,,,4,4,4
+Decibullz,12,3,,,3,,,4,,,3,3,4
+Decibullz,13,4,,,4,,,4,,,4,4,4
+Decibullz,14,4,,,4,,,4,,,4,4,4
+Decibullz,15,4,,,4,,,4,,,4,4,4
+DSW,1,4,4,,4,4,,4,4,,4,4,4
+DSW,2,3,4,,3,4,,4,4,,3.5,3.5,4
+DSW,3,4,4,,4,4,,4,4,,4,4,4
+DSW,4,4,4,,4,4,,4,4,,4,4,4
+DSW,5,4,4,,3,4,,4,4,,4,3.5,4
+DSW,6,4,4,,3,4,,3,4,,4,3.5,3.5
+DSW,7,2,4,,2,3,,3,4,,3,2.5,3.5
+DSW,8,4,4,,4,4,,4,4,,4,4,4
+DSW,9,3,4,,3,4,,2,4,,3.5,3.5,3
+DSW,10,4,4,,3,4,,3,4,,4,3.5,3.5
+DSW,11,4,4,,3,4,,4,4,,4,3.5,4
+DSW,12,4,4,,3,4,,4,4,,4,3.5,4
+DSW,13,4,4,,3,4,,4,4,,4,3.5,4
+DSW,14,4,4,,3,4,,4,4,,4,3.5,4
+DSW,15,4,4,,2,4,,3,4,,4,3,3.5
+DSW,16,4,4,,3,4,,4,4,,4,3.5,4
+eBay,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+eBay,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Electrifying Times,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Fanatics,1,3,,,1,,,1,,,3,1,1
+Fanatics,2,3,,,3,,,3,,,3,3,3
+Fanatics,3,3,,,3,,,3,,,3,3,3
+Fanatics,4,3,,,3,,,3,,,3,3,3
+Fanatics,5,3,,,3,,,3,,,3,3,3
+Fanatics,6,2,,,3,,,4,,,2,3,4
+Fanatics,7,3,,,4,,,4,,,3,4,4
+Fanatics,8,4,,,3,,,3,,,4,3,3
+Fanatics,9,3,,,3,,,2,,,3,3,2
+Fanatics,10,4,,,3,,,3,,,4,3,3
+Fanatics,11,4,,,3,,,3,,,4,3,3
+Fanatics,12,2,,,2,,,3,,,2,2,3
+Fanatics,13,3,,,2,,,3,,,3,2,3
+Fanatics,14,3,,,2,,,3,,,3,2,3
+Fanatics,15,4,,,3,,,3,,,4,3,3
+Flipkart,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Flipkart,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Footlocker,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Free City Supershop,1,3,,,2,,,3,,,3,2,3
+Free City Supershop,2,4,,,3,,,4,,,4,3,4
+Free City Supershop,3,4,,,3,,,4,,,4,3,4
+Free City Supershop,4,3,,,2,,,3,,,3,2,3
+Free City Supershop,5,3,,,2,,,3,,,3,2,3
+Free City Supershop,6,4,,,3,,,3,,,4,3,3
+Free City Supershop,7,3,,,3,,,3,,,3,3,3
+Free City Supershop,8,3,,,2,,,3,,,3,2,3
+Free City Supershop,9,4,,,3,,,3,,,4,3,3
+Free City Supershop,10,4,,,3,,,3,,,4,3,3
+Free City Supershop,11,3,,,3,,,4,,,3,3,4
+H & M,1,2,,,3,,,4,,,2,3,4
+H & M,2,3,,,3,,,4,,,3,3,4
+H & M,3,3,,,3,,,4,,,3,3,4
+H & M,4,3,,,3,,,4,,,3,3,4
+H & M,5,4,,,3,,,4,,,4,3,4
+H & M,6,4,,,4,,,4,,,4,4,4
+H & M,7,3,,,3,,,2,,,3,3,2
+H & M,8,3,,,3,,,4,,,3,3,4
+H & M,9,3,,,3,,,4,,,3,3,4
+H & M,10,4,,,4,,,4,,,4,4,4
+H & M,11,4,,,4,,,4,,,4,4,4
+H & M,12,4,,,3,,,2,,,4,3,2
+H & M,13,2,,,3,,,4,,,2,3,4
+H & M,14,3,,,3,,,4,,,3,3,4
+H & M,15,4,,,4,,,4,,,4,4,4
+H & M,16,3,,,3,,,4,,,3,3,4
+H & M,17,3,,,4,,,4,,,3,4,4
+H & M,18,3,,,4,,,4,,,3,4,4
+H & M,19,4,,,4,,,4,,,4,4,4
+Home Science Tools,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Home Science Tools,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ikea,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jabong,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Jeep People,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Koi Computer,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Lazada,1,2,,,2,,,1,,,2,1,1
+Lazada,2,4,,,4,,,4,,,4,4,4
+Lazada,3,3,,,3,,,2,,,3,2,2
+Lazada,4,3,,,3,,,2,,,3,2,2
+Lazada,5,3,,,3,,,2,,,3,2,2
+Lazada,6,3,,,4,,,3,,,3,3,3
+Lazada,7,4,,,3,,,3,,,4,3,3
+Lazada,8,4,,,4,,,3,,,4,3,3
+Lazada,9,4,,,4,,,4,,,4,4,4
+Lazada,10,4,,,4,,,4,,,4,4,4
+Lazada,11,4,,,4,,,4,,,4,4,4
+Lazada,12,3,,,3,,,3,,,3,3,3
+Lazada,13,3,,,2,,,2,,,3,2,2
+Lazada,14,3,,,2,,,2,,,3,2,2
+Lazada,15,3,,,2,,,2,,,3,2,2
+Lazada,16,3,,,2,,,2,,,3,2,2
+Ling's Cars,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Ling's Cars,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mednat,1,1,,,1,,,1,,,1,1,1
+Mednat,2,1,,,1,,,1,,,1,1,1
+Mednat,3,1,,,1,,,1,,,1,1,1
+Mednat,4,1,,,1,,,1,,,1,1,1
+Mednat,5,1,,,1,,,2,,,1,1,2
+Mednat,6,1,,,1,,,1,,,1,1,1
+Mednat,7,1,,,2,,,2,,,1,2,2
+Mednat,8,1,,,1,,,1,,,1,1,1
+Mednat,9,1,,,1,,,1,,,1,1,1
+Mednat,10,1,,,1,,,1,,,1,1,1
+Mednat,11,1,,,1,,,1,,,1,1,1
+Mednat,12,2,,,1,,,1,,,2,1,1
+Mednat,13,1,,,1,,,1,,,1,1,1
+Mednat,14,1,,,1,,,1,,,1,1,1
+Mednat,15,4,,,4,,,4,,,4,4,4
+Mercia Tourist Board,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Mercia Tourist Board,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Microcenter.com,1,2,,,2,,,3,,,2,2,3
+Microcenter.com,2,3,,,2,,,2,,,3,2,2
+Microcenter.com,3,3,,,2,,,2,,,3,2,2
+Microcenter.com,4,2,,,3,,,3,,,2,3,3
+Microcenter.com,5,2,,,2,,,2,,,2,2,2
+Microcenter.com,6,2,,,3,,,2,,,2,3,2
+Microcenter.com,7,2,,,2,,,3,,,2,2,3
+Microcenter.com,8,2,,,2,,,3,,,2,2,3
+Microcenter.com,9,3,,,2,,,3,,,3,2,3
+Microcenter.com,10,2,,,2,,,3,,,2,2,3
+Microcenter.com,11,2,,,2,,,2,,,2,2,2
+Microcenter.com,12,2,,,2,,,2,,,2,2,2
+Microcenter.com,13,2,,,2,,,2,,,2,2,2
+Microcenter.com,14,3,,,3,,,2,,,3,3,2
+Microcenter.com,15,3,,,3,,,2,,,3,3,2
+Microcenter.com,16,2,,,3,,,2,,,2,3,2
+Microcenter.com,17,2,,,3,,,3,,,2,3,3
+Microcenter.com,18,2,,,2,,,3,,,2,2,3
+Next Chapter,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Next Chapter,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Nordstrom,1,3,,,2,,,4,,,3,2,4
+Nordstrom,2,3,,,2,,,4,,,3,2,4
+Nordstrom,3,3,,,3,,,2,,,3,3,2
+Nordstrom,4,3,,,4,,,2,,,3,4,2
+Nordstrom,5,2,,,2,,,3,,,2,2,3
+Nordstrom,6,2,,,2,,,3,,,2,2,3
+Nordstrom,7,2,,,2,,,3,,,2,2,3
+Nordstrom,8,2,,,3,,,3,,,2,3,3
+Nordstrom,9,1,,,1,,,3,,,1,1,3
+Nordstrom,10,3,,,3,,,2,,,3,3,2
+Nordstrom,11,3,,,2,,,3,,,3,2,3
+Nordstrom,12,2,,,2,,,1,,,2,2,1
+Nordstrom,13,3,,,2,,,2,,,3,2,2
+Nordstrom,14,3,,,3,,,4,,,3,3,4
+Nordstrom,15,3,,,3,,,4,,,3,3,4
+Nordstrom,16,2,,,2,,,3,,,2,2,3
+Opensky,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Opensky,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+P & M Computers,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Paradise With A View,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Pennyjuice,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,18,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rakuten,19,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,18,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+RalphLauren.com,19,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Renogy,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Rusty Surfboards,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopee,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Shopify,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Signal Boosters,1,4,,,4,,,4,,,4,4,4
+Signal Boosters,2,4,,,4,,,4,,,4,4,4
+Signal Boosters,3,4,,,4,,,4,,,4,4,4
+Signal Boosters,4,4,,,4,,,4,,,4,4,4
+Signal Boosters,5,4,,,4,,,4,,,4,4,4
+Signal Boosters,6,4,,,4,,,4,,,4,4,4
+Signal Boosters,7,4,,,4,,,4,,,4,4,4
+Signal Boosters,8,4,,,4,,,4,,,4,4,4
+Signal Boosters,9,4,,,4,,,4,,,4,4,4
+Signal Boosters,10,4,,,3,,,4,,,4,3,4
+Signal Boosters,11,3,,,3,,,4,,,3,3,4
+Signal Boosters,12,3,,,3,,,4,,,3,3,4
+Signal Boosters,13,4,,,4,,,4,,,4,4,4
+Signal Boosters,14,4,,,4,,,4,,,4,4,4
+Signal Boosters,15,4,,,4,,,4,,,4,4,4
+Skullcandy,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Skullcandy,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+SnapDeal,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Suzanne Collins Books,1,1,,,1,,,1,,,1,1,1
+Suzanne Collins Books,2,1,,,1,,,2,,,1,1,2
+Suzanne Collins Books,3,1,,,2,,,2,,,1,2,2
+Suzanne Collins Books,4,2,,,2,,,3,,,2,2,3
+Suzanne Collins Books,5,2,,,3,,,2,,,2,3,2
+Suzanne Collins Books,6,1,,,2,,,2,,,1,2,2
+Suzanne Collins Books,7,2,,,3,,,1,,,2,3,1
+Suzanne Collins Books,8,1,,,2,,,3,,,1,2,3
+Suzanne Collins Books,9,2,,,3,,,3,,,2,3,3
+Suzanne Collins Books,10,2,,,3,,,3,,,2,3,3
+Suzanne Collins Books,11,2,,,2,,,3,,,2,2,3
+Suzanne Collins Books,12,2,,,2,,,2,,,2,2,2
+Suzanne Collins Books,13,2,,,3,,,3,,,2,3,3
+Suzanne Collins Books,14,2,,,3,,,3,,,2,3,3
+Suzanne Collins Books,15,2,,,3,,,3,,,2,3,3
+The Mountain,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+The Mountain,18,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+True Links Wear,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Urban Outfitters,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walgreens,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Walmart,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,17,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Water Equipment,18,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Woocommerce,1,4,,,4,,,3,,,4,4,3
+Woocommerce,2,4,,,4,,,3,,,4,4,3
+Woocommerce,3,4,,,3,,,2,,,4,3,2
+Woocommerce,4,4,,,3,,,2,,,4,3,2
+Woocommerce,5,3,,,3,,,2,,,3,3,2
+Woocommerce,6,3,,,3,,,3,,,3,3,3
+Woocommerce,7,3,,,3,,,4,,,3,3,4
+Woocommerce,8,3,,,2,,,2,,,3,2,2
+Woocommerce,9,3,,,3,,,3,,,3,3,3
+Woocommerce,10,2,,,2,,,2,,,2,2,2
+Woocommerce,11,3,,,3,,,3,,,3,3,3
+Woocommerce,12,3,,,3,,,3,,,3,3,3
+Woocommerce,13,2,,,2,,,3,,,2,2,3
+Woocommerce,14,3,,,3,,,3,,,3,3,3
+Woocommerce,15,4,,,2,,,3,,,4,2,3
+Zalora,1,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,2,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,3,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,4,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,5,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,6,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,7,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,8,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,9,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,10,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,11,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,12,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,13,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,14,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,15,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
+Zalora,16,,,,,,,,,,"#DIV/0!","#DIV/0!","#DIV/0!"
